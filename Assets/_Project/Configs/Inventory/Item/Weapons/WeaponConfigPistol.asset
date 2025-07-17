@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf1d4c9c29d84fb5b10377b35f430e1a, type: 3}
+  m_Name: WeaponConfigPistol
+  m_EditorClassIdentifier: 
+  Id: "\u041F\u0438\u0441\u0442\u043E\u043B\u0435\u0442"
+  Icon: {fileID: 401217199099542846, guid: 60fb26e54aab27342b979aac9fc6e72f, type: 3}
+  <Max>k__BackingField: 1
+  <Weight>k__BackingField: 1
+  <Ammo>k__BackingField: {fileID: 11400000, guid: f3a5c370c75197d46a99b1514551f143, type: 2}
+  <Damage>k__BackingField: 10

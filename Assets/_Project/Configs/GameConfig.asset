@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b8d629663094824a1067d5a67b763db, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: Game
+  <ItemConfigs>k__BackingField:
+  - {fileID: 11400000, guid: ebd3d457ac68575418f4344e7e69afb1, type: 2}
+  - {fileID: 11400000, guid: 3cc8a4c4b8b7bc64281afdd6f43837fe, type: 2}
+  - {fileID: 11400000, guid: 8eac26b85bfc8364084617df74f79ec3, type: 2}
+  - {fileID: 11400000, guid: 4cda5a0b52648214d92799832baea715, type: 2}
+  - {fileID: 11400000, guid: 424e0c66191ad7648937f3e1083becf3, type: 2}
+  - {fileID: 11400000, guid: ac35afac3f3006c4a85e313ebea20838, type: 2}
+  - {fileID: 11400000, guid: 512c6d5a17f7d834b931d3d1c1e30053, type: 2}
+  - {fileID: 11400000, guid: f3a5c370c75197d46a99b1514551f143, type: 2}
+  <InventoryConfig>k__BackingField: {fileID: 11400000, guid: c4653059f14ade649b9b3c019d6b4c31, type: 2}
+  <WalletConfig>k__BackingField: {fileID: 11400000, guid: ab39089789058ec48929370035c11d61, type: 2}
+  <ClearSave>k__BackingField: 0
